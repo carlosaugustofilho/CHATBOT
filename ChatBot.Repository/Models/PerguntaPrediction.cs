@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.ML.Data;
 
-namespace ChatBot.Repository.Models
+namespace ChatBot.Models
 {
-    internal class PerguntaPrediction
+    public class PerguntaPrediction
     {
+        [ColumnName("PredictedLabel")]
+        public string Categoria { get; set; }
     }
 }

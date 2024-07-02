@@ -16,3 +16,4 @@ namespace ChatBot.Repository
             public string Resposta { get; set; }
         }
     }
+}

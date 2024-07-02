@@ -1,5 +1,5 @@
 ﻿using ChatBot.Repository.ChatBot.Models;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace ChatBot.Repository.Context
 {
@@ -12,10 +12,6 @@ namespace ChatBot.Repository.Context
 
         public DbSet<PerguntaData> Questions { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            base.OnModelCreating(modelBuilder);
-            // Configurações adicionais de modelagem, se necessário
-        }
+        
     }
 }

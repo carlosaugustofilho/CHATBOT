@@ -1,13 +1,8 @@
-﻿using ChatBot.Models;
-using ChatBot.Repositories;
-using ChatBot.Repository.ChatBot.Models;
+﻿using ChatBot.Repository.ChatBot.Models;
 using ChatBot.Repository.Interface;
 using CsvHelper;
 using CsvHelper.Configuration;
-using System.Collections.Generic;
 using System.Globalization;
-using System.IO;
-using System.Linq;
 using System.Text;
 
 namespace ChatBot.Repository.Repository

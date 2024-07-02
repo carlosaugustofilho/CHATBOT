@@ -1,0 +1,12 @@
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\bin\Debug\net6.0\ChatBot.Business.deps.json
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\bin\Debug\net6.0\ChatBot.Business.dll
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\bin\Debug\net6.0\ChatBot.Business.pdb
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.dll
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\refint\ChatBot.Business.dll
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ChatBot.Business.pdb
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Business\obj\Debug\net6.0\ref\ChatBot.Business.dll

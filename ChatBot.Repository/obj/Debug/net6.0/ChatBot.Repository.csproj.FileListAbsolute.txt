@@ -1,0 +1,14 @@
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\bin\Debug\net6.0\ChatBot.Repository.deps.json
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\bin\Debug\net6.0\ChatBot.Repository.runtimeconfig.json
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\bin\Debug\net6.0\ChatBot.Repository.dll
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\bin\Debug\net6.0\ChatBot.Repository.pdb
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.dll
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\refint\ChatBot.Repository.dll
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.pdb
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ChatBot.Repository.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\ChatIBot\ChatBot.Repository\obj\Debug\net6.0\ref\ChatBot.Repository.dll
