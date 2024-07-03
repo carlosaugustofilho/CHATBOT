@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "..\ChatBot\ChatBot.csproj", "{B89B6092-2AFF-4208-BE01-576BCA5E78A0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apllication", "Apllication", "{34EBD835-43EC-49C0-843C-DCA706FFCB58}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{40141412-A5C2-4521-A0A1-C32905684A37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot.Business", "ChatBot.Business\ChatBot.Business.csproj", "{E69ACEC7-A2A6-46CE-BA7F-E912BBFAD9A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot.Business", "ChatBot.Business\ChatBot.Business.csproj", "{E69ACEC7-A2A6-46CE-BA7F-E912BBFAD9A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{5797C5BD-B956-4E6F-AE09-64D9AE50D6DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot.Repository", "ChatBot.Repository\ChatBot.Repository.csproj", "{373014E6-36AC-4526-A850-B7D8756CFBE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot.Repository", "ChatBot.Repository\ChatBot.Repository.csproj", "{373014E6-36AC-4526-A850-B7D8756CFBE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot.Models", "ChatBot.Models\ChatBot.Models.csproj", "{C1937CD9-EAD4-4EF1-91AA-C5C6A4322E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot.Models", "ChatBot.Models\ChatBot.Models.csproj", "{C1937CD9-EAD4-4EF1-91AA-C5C6A4322E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot\ChatBot.csproj", "{1137A321-85BE-47BE-BE88-68899131D142}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apllication", "Apllication", "{D96D1E37-1B4A-4597-98C8-3BF1EFF87F74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B89B6092-2AFF-4208-BE01-576BCA5E78A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B89B6092-2AFF-4208-BE01-576BCA5E78A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B89B6092-2AFF-4208-BE01-576BCA5E78A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B89B6092-2AFF-4208-BE01-576BCA5E78A0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E69ACEC7-A2A6-46CE-BA7F-E912BBFAD9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E69ACEC7-A2A6-46CE-BA7F-E912BBFAD9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E69ACEC7-A2A6-46CE-BA7F-E912BBFAD9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,15 +35,19 @@ Global
 		{C1937CD9-EAD4-4EF1-91AA-C5C6A4322E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1937CD9-EAD4-4EF1-91AA-C5C6A4322E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1937CD9-EAD4-4EF1-91AA-C5C6A4322E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1137A321-85BE-47BE-BE88-68899131D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1137A321-85BE-47BE-BE88-68899131D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1137A321-85BE-47BE-BE88-68899131D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1137A321-85BE-47BE-BE88-68899131D142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B89B6092-2AFF-4208-BE01-576BCA5E78A0} = {34EBD835-43EC-49C0-843C-DCA706FFCB58}
 		{E69ACEC7-A2A6-46CE-BA7F-E912BBFAD9A9} = {40141412-A5C2-4521-A0A1-C32905684A37}
 		{373014E6-36AC-4526-A850-B7D8756CFBE8} = {5797C5BD-B956-4E6F-AE09-64D9AE50D6DC}
 		{C1937CD9-EAD4-4EF1-91AA-C5C6A4322E75} = {40141412-A5C2-4521-A0A1-C32905684A37}
+		{1137A321-85BE-47BE-BE88-68899131D142} = {D96D1E37-1B4A-4597-98C8-3BF1EFF87F74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F2C760B-8A93-43BC-A54C-44A49C533F05}
